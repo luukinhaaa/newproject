@@ -10,6 +10,6 @@ export class AppComponent {
 version = '1.0.0';
 num1 = 10;
 num2 = 20;
-helloadd = 'hello';
+a = 200000000000000000000000000000000000;
 }
 
